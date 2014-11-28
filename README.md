@@ -3,36 +3,32 @@ AngularJS Boilerplate
 
 A boilerplate to start AngularJS projects
 
-# Installation
+### Installation
+```
+$ cd path/to/your/repo
+$ git clone git@github.com:LuisMRibeiro/angular-boilerplate.git
+$ npm update
+$ bower update
+```
+Open the [root page](http://localhost:8383/angular-boilerplate/index.html#/) to see the project
 
-1. $ cd path/to/your/repo
-2. $ git clone git@github.com:LuisMRibeiro/angular-boilerplate.git
-3. $ npm update
-4. $ bower update
-5. Open http://localhost:8383/angular-boilerplate/index.html#/ to see the project
-
-# Node modules
+### Node modules
 
 * bower
 * shellJS
 
 
-# Bower components
+### Bower components
 
 * angular 
 * angular-http-auth
 * angular-resources
 * angular-route
-* angular-translate
+* angular-translate (Read this [tutorial](http://www.ng-newsletter.com/posts/angular-translate.html) to learn how to use it)
 * bootstrap
 * font-awesome
 * jquery
 * modernizr
 
 
-#### angular-translate
-
-angular-translate bower package
-
-Tutorial: http://www.ng-newsletter.com/posts/angular-translate.html
 
