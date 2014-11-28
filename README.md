@@ -1,7 +1,7 @@
 AngularJS Boilerplate
 ====================
 
-A boilerplate to start a angularjs project
+A boilerplate to start angularjs projects
 
 # Installation
 
