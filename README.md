@@ -3,7 +3,7 @@ AngularJS Boilerplate
 
 A boilerplate to start a angularjs project
 
-# Instalation
+# Installation
 
 1. cd path/to/your/repo
 2 .git clone git@github.com:LuisMRibeiro/angular-boilerplate.git
