@@ -1,8 +1,3 @@
-AngularJS Boilerplate
-====================
-
-A boilerplate to start AngularJS projects
-
 ### Installation
 ```
 $ cd path/to/your/repo
