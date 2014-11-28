@@ -3,8 +3,6 @@ AngularJS Boilerplate
 
 A boilerplate to start a angularjs project
 
-http://luismribeiro.github.io/angular-boilerplate
-
 #### angular-translate
 
 angular-translate bower package
