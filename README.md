@@ -1,7 +1,7 @@
 ### Installation
 ```
 $ cd path/to/your/repo
-$ git clone git@github.com:lmibeiro/angular-boilerplate.git
+$ git clone git@github.com:lmribeiro/angular-boilerplate.git
 $ npm update
 $ bower update
 ```
