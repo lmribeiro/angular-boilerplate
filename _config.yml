@@ -1,0 +1,8 @@
+title: Angular-boilerplate
+description: A boilerplate to start AngularJS projects
+google_analytics: UA-57195491-1
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
