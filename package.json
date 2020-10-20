@@ -1,7 +1,7 @@
 {
-  "name": "codigoirreverente",
+  "name": "angular-boilerplate",
   "version": "1.0.0",
-  "description": "A Código Irreverente project",
+  "description": "A boilerlate project",
   "dependencies": {
   },
   "devDependencies": {
